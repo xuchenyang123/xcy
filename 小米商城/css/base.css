@@ -1,0 +1,31 @@
+/*版心*/
+.w{
+    width: 1226px;
+    height: 58px;
+    /*background-color: yellow;*/
+    position: relative;
+}
+.h{
+    width: 100px;
+    height: 100%;
+    padding-top: 18px;
+    font-size: 22px;
+    color: #b0b0b0;
+    font-weight: 200;
+}
+.u{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.public-a{
+    position: absolute;
+    right: 0;
+    top: 18px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #424242;
+}
+.public-a:hover{
+    color: #ff6700;
+}

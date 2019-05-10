@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'xiaomi';
+  src:  url('fonts/xiaomi.eot?avymps');
+  src:  url('fonts/xiaomi.eot?avymps#iefix') format('embedded-opentype'),
+    url('fonts/xiaomi.ttf?avymps') format('truetype'),
+    url('fonts/xiaomi.woff?avymps') format('woff'),
+    url('fonts/xiaomi.svg?avymps#xiaomi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="xiaomi-"], [class*=" xiaomi-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'xiaomi' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.xiaomi-mobile:before {
+  content: "\e958";
+}
+.xiaomi-floppy-disk:before {
+  content: "\e962";
+}
+.xiaomi-spinner10:before {
+  content: "\e983";
+}
+.xiaomi-gift:before {
+  content: "\e99f";
+}
+.xiaomi-delicious:before {
+  content: "\eacd";
+}
+.xiaomi-foursquare:before {
+  content: "\ead6";
+}
