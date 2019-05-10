@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            text-decoration: none;
+        }
+        html,body{
+            width: 100%;
+            height: 100%;
+        }
+        #main_content{
+            width: 100%;
+            height: 100%;
+            /*background-color: green;*/
+            position: relative;
+        }
+        #main_content .content-left{
+            width: 15%;
+            height: 100%;
+            background-color: #fff;
+            float: left;
+            /*overflow: hidden;*/
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        #main_content .content-right{
+            height: 100%;
+            background-color: #666;
+            /*overflow: hidden;*/
+            width: 85%;
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        #main_content .content-left .content-left-one{
+            width: 100%;
+            height: 150px;
+            /*border: 1px solid #000;*/
+            border-bottom: 1px solid #e9e9e9;
+        }
+        #main_content .content-left .content-left-one .img-left{
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            margin: 10px 0px 10px 45px;
+        }
+        .content-left-one a{
+            color: #3c3f41;
+            font-size: 14px;
+            cursor: pointer;
+            padding-left: 25px;
+        }
+        .content-left-two{
+            width: 100%;
+            height: 220px;
+            /*border: 1px solid red;*/
+            border-bottom: 1px solid #e9e9e9;
+        }
+        .content-left-two ul{
+            width: 100%;
+            height: 100%;
+        }
+        .content-left-two ul li{
+
+            width: 70%;
+            height: 50px;
+            /*border: 1px solid purple;*/
+            text-align: center;
+        }
+        .content-left-two ul li a{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: #3c3f41;
+            width: 100%;
+            height: 100%;
+        }
+        .content-left-three{
+            width: 100%;
+            height: 250px;
+            /*border: 1px solid yellow;*/
+            margin-top: 20px;
+        }
+        .three-content-one{
+            width: 80%;
+            height: 120px;
+            /*background: #5ec1f1;*/
+            margin-left: 20px;
+        }
+        .three-content-one p {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .three-content-one input{
+            width: 100%;
+            height: 30px;
+            outline: none;
+            background: rgba(255,255,255,0.5);
+            border-radius: 3px;
+            padding-left: 5px;
+            box-sizing: border-box;
+            border: 1px solid #666;
+        }
+        .content-left-three i {
+            font-size: 20px;
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            color: #666;
+            margin: 25px 0 0 150px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div id="main_content">
+    <!--左侧内容-->
+    <div class="content-left">
+        <div class="content-left-one">
+            <img src="images/reg.jpg" alt="" class="img-left">
+            <p></p>
+            <a href="login.html">请先登录</a>
+            <a href="register.html">注册</a>
+        </div>
+        <div class="content-left-two">
+            <ul>
+                <li><a href="">首页</a></li>
+                <li><a href="">发表帖子</a></li>
+                <li><a href="">创建课程</a></li>
+                <li><a href="">作业</a></li>
+            </ul>
+        </div>
+        <div class="content-left-three">
+            <div class="three-content-one">
+                <p>Search</p>
+                <input type="text" placeholder="搜索帖子">
+                <i class="bishe-arrow-right2"></i>
+            </div>
+            <div class="three-content-one" style="margin-top: 10px">
+                <p>Search</p>
+                <input type="text" placeholder="搜索课程">
+                <i class="bishe-arrow-right2"></i>
+            </div>
+        </div>
+    </div>
+    <!--右侧内容-->
+    <div class="content-right"></div>
+</div>
+<script>
+    // let arr1 = [];
+    // let arr = [1,2,3,4];
+    // let id = '许大大';
+    // // arr1[id] = arr;
+    //
+    // arr1.push({[id]:arr})
+    // console.log(arr1);
+    // console.log(arr1[0]);
+    // console.log(arr1[0][id].length);
+    let arr = [];
+    let x = 'xudada';
+    let obj = {[x]:'1111'};
+    arr.push(obj);
+    console.log(obj);
+    console.log(arr);
+</script>
+</body>
+</html>

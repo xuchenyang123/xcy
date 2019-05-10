@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33198bcc-5391-4a59-adfa-053c8788334c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1098913453">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="13" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="6" />
+          <entry key="json" value="3" />
+          <entry key="www" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="52" />
+          <entry key="js" value="3403" />
+          <entry key="json" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="52" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="3403" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1871155301">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1239" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="1239" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-948926613">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="3063" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="3063" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.44216692">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/luntan/routes/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="254">
+                  <caret line="394" column="6" selection-start-line="389" selection-start-column="4" selection-end-line="394" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/luntan/models/progress.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/luntan/models/answer.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="780">
+                  <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/luntan/models/usermodels1.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="24" selection-start-column="24" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/luntan/models/usermodels2.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret selection-end-line="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/luntan/models/teachermsg.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/luntan/models/answer.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="352">
+                  <caret line="24" column="45" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="45" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/luntan/app.js" />
+        <option value="$PROJECT_DIR$/substr方法.html" />
+        <option value="$PROJECT_DIR$/luntan/package.json" />
+        <option value="$PROJECT_DIR$/luntan/models/usermodels1.js" />
+        <option value="$PROJECT_DIR$/luntan/models/usermodels2.js" />
+        <option value="$PROJECT_DIR$/luntan/models/teachermsg.js" />
+        <option value="$PROJECT_DIR$/luntan/models/usermodels.js" />
+        <option value="$PROJECT_DIR$/luntan/models/answer.js" />
+        <option value="$PROJECT_DIR$/luntan/models/progress.js" />
+        <option value="$PROJECT_DIR$/luntan/routes/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/luntan/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/luntan/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="190" />
+    <option name="y" value="70" />
+    <option name="width" value="1575" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="在线教育论坛服务器 - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="在线教育论坛服务器 - 副本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="在线教育论坛服务器 - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="在线教育论坛服务器 - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="luntan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="在线教育论坛服务器 - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="在线教育论坛服务器 - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="luntan" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="在线教育论坛服务器 - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="在线教育论坛服务器 - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="luntan" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="在线教育论坛服务器 - 副本" type="b2602c69:ProjectViewProjectNode" />
+              <item name="在线教育论坛服务器 - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="luntan" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../在线教育论坛系统 - 副本" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\毕设\在线教育论坛服务器 - 副本\luntan\models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33198bcc-5391-4a59-adfa-053c8788334c" name="Default Changelist" comment="" />
+      <created>1551189083035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551189083035</updated>
+      <workItem from="1551189084562" duration="1522000" />
+      <workItem from="1551234848413" duration="8792000" />
+      <workItem from="1551658951265" duration="762000" />
+      <workItem from="1551670865269" duration="659000" />
+      <workItem from="1551791839900" duration="624000" />
+      <workItem from="1551852034510" duration="9005000" />
+      <workItem from="1551876566397" duration="6160000" />
+      <workItem from="1551915208483" duration="2795000" />
+      <workItem from="1551943250668" duration="4777000" />
+      <workItem from="1552191614208" duration="447000" />
+      <workItem from="1552223984659" duration="18000" />
+      <workItem from="1552441001869" duration="1199000" />
+      <workItem from="1552463467968" duration="358000" />
+      <workItem from="1552523972622" duration="8186000" />
+      <workItem from="1552568885550" duration="5407000" />
+      <workItem from="1552611863131" duration="3128000" />
+      <workItem from="1552623182607" duration="346000" />
+      <workItem from="1552731384344" duration="2515000" />
+      <workItem from="1552800217272" duration="599000" />
+      <workItem from="1552802070487" duration="4455000" />
+      <workItem from="1552819663258" duration="6075000" />
+      <workItem from="1552886406279" duration="627000" />
+      <workItem from="1552903384305" duration="1223000" />
+      <workItem from="1552966742112" duration="668000" />
+      <workItem from="1553312299098" duration="4572000" />
+      <workItem from="1553335372511" duration="3056000" />
+      <workItem from="1553403598561" duration="3369000" />
+      <workItem from="1553433756934" duration="627000" />
+      <workItem from="1553481519064" duration="1433000" />
+      <workItem from="1553512514094" duration="614000" />
+      <workItem from="1553514318912" duration="730000" />
+      <workItem from="1553522781436" duration="620000" />
+      <workItem from="1553673719844" duration="903000" />
+      <workItem from="1553690760302" duration="273000" />
+      <workItem from="1553867221581" duration="259000" />
+      <workItem from="1553868442828" duration="627000" />
+      <workItem from="1554001119526" duration="665000" />
+      <workItem from="1554007563232" duration="627000" />
+      <workItem from="1554016129663" duration="6435000" />
+      <workItem from="1554038532228" duration="1234000" />
+      <workItem from="1554041036516" duration="626000" />
+      <workItem from="1554083971436" duration="756000" />
+      <workItem from="1554192067939" duration="106000" />
+      <workItem from="1554442125509" duration="774000" />
+      <workItem from="1554466191637" duration="617000" />
+      <workItem from="1554529573232" duration="627000" />
+      <workItem from="1554547476961" duration="884000" />
+      <workItem from="1554598331378" duration="7587000" />
+      <workItem from="1554614243132" duration="2079000" />
+      <workItem from="1554643873187" duration="656000" />
+      <workItem from="1554649950151" duration="455000" />
+      <workItem from="1555128236260" duration="2305000" />
+      <workItem from="1555638460509" duration="675000" />
+      <workItem from="1555725199451" duration="5320000" />
+      <workItem from="1555936848082" duration="992000" />
+      <workItem from="1556112806763" duration="174000" />
+      <workItem from="1556505391205" duration="3726000" />
+      <workItem from="1557147186729" duration="2054000" />
+      <workItem from="1557198595664" duration="7708000" />
+      <workItem from="1557285059590" duration="2452000" />
+      <workItem from="1557469427039" duration="641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137605000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09775429" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34560907" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/substr方法.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/bin/www">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/models/usermodels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="394" column="6" selection-start-line="389" selection-start-column="4" selection-end-line="394" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/models/progress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/models/usermodels1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/models/usermodels2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/models/teachermsg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luntan/models/answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

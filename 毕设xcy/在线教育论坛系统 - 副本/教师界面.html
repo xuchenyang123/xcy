@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>教师界面</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        html,body{
+            width: 100%;
+            height: 100%;
+            background: #ffffff;
+        }
+        .main{
+            width: 100%;
+            height: 100%;
+        }
+        .main-top{
+            width: 100%;
+            height: auto;
+        }
+        .main-top-text{
+            width: 100%;
+            height: 90px;
+            position: relative;
+        }
+        .main-top-text img{
+            float: left;
+            position: absolute;
+            left: 178px;
+            top: 7px;
+        }
+        .main-top-text h1{
+            position: absolute;
+            right: 380px;
+            top: 45px;
+            font-size: 25px;
+        }
+        .main-top-device{
+            width: 100%;
+            height: 50px;
+            border-bottom: 1px solid #000;
+        }
+        .main-top-device ul{
+            width: 60%;
+            height: 100%;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .main-top-device ul li{
+            width: 30%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+        }
+        .main-one{
+            width: 60%;
+            height: 500px;
+            margin: 0 auto;
+            text-align: center;
+            box-sizing: border-box;
+            padding-top: 100px;
+        }
+
+    </style>
+</head>
+<body>
+<div class="main">
+    <div class="main-top">
+        <!--文字-->
+        <div class="main-top-text">
+            <img src="images/logo.png" alt="">
+            <h1 style="font-weight: 400;">在线教学论坛系统</h1>
+        </div>
+        <!--功能-->
+        <div class="main-top-device">
+            <ul>
+                <li>创建课程</li>
+                <li>课程管理</li>
+                <li>作业批阅</li>
+            </ul>
+        </div>
+    </div>
+    <div class="main-one">
+        课号: &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <input type="text"><br><br>
+        创建人: &nbsp;&nbsp; &nbsp;&nbsp; <input type="text"><br><br>
+        课程名称: &nbsp;&nbsp; <input type="text"><br><br>
+        <button>提交</button>
+    </div>
+</div>
+</body>
+</html>
